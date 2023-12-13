@@ -115,18 +115,4 @@ public class OreInit {
             () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_GOLD_ORE)
                     .requiresCorrectToolForDrops()
             ));
-
-    public static final RegistryObject<Block> CRYSTALLINE_THERA_PLANT = BLOCKS.register("sperieite_plant",
-            () -> new BushBlock(BlockBehaviour.Properties.copy(Blocks.ALLIUM))
-            //Earth Element
-    );
-    public static final RegistryObject<Block> CRYSTALLINE_CENDIS_PLANT = BLOCKS.register("alarltite_plant",
-            () -> new BushBlock(BlockBehaviour.Properties.copy(Blocks.ALLIUM))
-            //Fire Element
-    );
-
-    public static final RegistryObject<Block> CRYSTALLINE_SEPTOS_PLANT = BLOCKS.register("freigarite_plant",
-            () -> new BushBlock(BlockBehaviour.Properties.copy(Blocks.ALLIUM))
-            //Magic Element
-    );
 }

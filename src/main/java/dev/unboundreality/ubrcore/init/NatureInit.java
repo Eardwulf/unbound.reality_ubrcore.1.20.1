@@ -14,11 +14,6 @@ public class NatureInit
 {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, UbrCore.MOD_ID);
 
-    public static final RegistryObject<Block> DEEPSLATE_MITHRIL_ORE = BLOCKS.register("deepslate_mithril_ore",
-            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_GOLD_ORE)
-                    .requiresCorrectToolForDrops()
-            ));
-
     public static final RegistryObject<Block> CRYSTALLINE_THERA_PLANT = BLOCKS.register("sperieite_plant",
             () -> new BushBlock(BlockBehaviour.Properties.copy(Blocks.ALLIUM))
             //Earth Element
