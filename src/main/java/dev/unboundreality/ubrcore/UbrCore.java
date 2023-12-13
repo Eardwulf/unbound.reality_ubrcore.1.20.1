@@ -15,6 +15,7 @@ public class UbrCore {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ItemInit.ITEMS.register(bus);
+        BlockItemInit.ITEMS.register(bus);
         OreInit.BLOCKS.register(bus);
         NatureInit.BLOCKS.register(bus);
         BlockInit.BLOCKS.register(bus);

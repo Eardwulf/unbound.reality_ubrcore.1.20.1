@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ubrcore:block/yekrillian_slab"
+    },
+    "type=double": {
+      "model": "ubrcore:block/yekrillian_block"
+    },
+    "type=top": {
+      "model": "ubrcore:block/yekrillian_slab_top"
+    }
+  }
+}

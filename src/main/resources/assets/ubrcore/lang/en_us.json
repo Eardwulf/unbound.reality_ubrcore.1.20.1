@@ -26,6 +26,17 @@
   "block.ubrcore.adamantium_ore": "Adamantium Ore",
   "block.ubrcore.drierium_ore": "Drierium Ore",
 
+  "block.ubrcore.yekrillian_block": "Yekrillian Block",
+  "block.ubrcore.yekrillian_stairs": "Yekrillian Stairs",
+  "block.ubrcore.yekrillian_slab": "Yekrillian Slab",
+  "block.ubrcore.yekrillian_pressure_plate": "Yekrillian Pressure Plate",
+  "block.ubrcore.yekrillian_button": "Yekrillian Button",
+  "block.ubrcore.yekrillian_fence": "Yekrillian Fence",
+  "block.ubrcore.yekrillian_fence_gate": "Yekrillian Fence Gate",
+  "block.ubrcore.yekrillian_wall": "Yekrillian Wall",
+  "block.ubrcore.yekrillian_door": "Yekrillian Door",
+  "block.ubrcore.yekrillian_trapdoor": "Yekrillian Trapdoor",
+
   "item.ubrcore.lecite_ingot": "Lecite Ingot",
   "item.ubrcore.corsium_ingot": "Corsium Ingot",
   "item.ubrcore.ecrum_ingot": "Ecrum Ingot",
@@ -35,16 +46,12 @@
   "item.ubrcore.electrum_ingot": "Electrum Ingot",
   "item.ubrcore.orichalcum_ingot": "Orichalcum Ingot",
   "item.ubrcore.mithril_ingot": "Mithril Ingot",
-  "item.ubrcore.yekillian": "Yekillian",
-  "item.ubrcore.yekillian_powder": "Yekillian Powder",
+  "item.ubrcore.yekrillian": "Yekrillian",
+  "item.ubrcore.yekrillian_powder": "Yekrillian Powder",
   "item.ubrcore.sperieite_shard": "Sperieite Shard",
   "item.ubrcore.alarltite_shard": "Alarltite Shard",
   "item.ubrcore.herdramite_shard": "Herdramite Shard",
   "item.ubrcore.freigarite_shard": "Freigarite Shard",
-
-  "block.ubrcore.yekrillian_lamp": "Yekrillian Lamp",
-
-  "block.ubrcore.sperieite_plant": "Sperieite Plant",
 
   "item.ubrcore.chagar": "Chagar"
 }
