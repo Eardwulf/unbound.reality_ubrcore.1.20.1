@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "ubrcore:block/sperieite_plant"
+  }
+}

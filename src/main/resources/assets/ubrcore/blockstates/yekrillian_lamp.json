@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "clicked=false": {
+      "model": "ubrcore:block/yekrillian_lamp_off"
+    },
+    "clicked=true": {
+      "model": "ubrcore:block/yekrillian_lamp_on"
+    }
+  }
+}

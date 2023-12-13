@@ -1,0 +1,50 @@
+{
+  "creativetab.ubrcore_item_tab": "Ubr Tab",
+  "itemGroup.ubr_tab": "UBR Tab",
+
+  "item.ubrcore.yekrillian_orb": "Yekrillian Orb",
+  "item.ubrcore.redstone_orb": "Redstone Orb",
+
+  "block.ubrcore.corsium_ore": "Corsium Ore",
+  "block.ubrcore.kraorium_ore": "Kraorium Ore",
+  "block.ubrcore.deepslate_yekril_ore": "Deepslate Yekril Ore",
+  "block.ubrcore.orichalcum_ore": "Orichalcum Ore",
+  "block.ubrcore.yekril_ore": "Yekril Ore",
+  "block.ubrcore.deepslate_orichalcum_ore": "Deepslate Orichalcum Ore",
+  "block.ubrcore.deepslate_kraorium_ore": "Deepslate Kraorium Ore",
+  "block.ubrcore.deepslate_osmeasium_ore": "Deepslate Osmeasium Ore",
+  "block.ubrcore.electrum_ore": "Electrum Ore",
+  "block.ubrcore.mithril_ore": "Mithril Ore",
+  "block.ubrcore.deepslate_mithril_ore": "Deepslate Mithril Ore",
+  "block.ubrcore.deepslate_corsium_ore": "Deepslate Corsium Ore",
+  "block.ubrcore.deepslate_electrum_ore": "Deepslate Electrum Ore",
+  "block.ubrcore.deepslate_adamantium_ore": "Deepslate Adamantium Ore",
+  "block.ubrcore.osmeasium_ore": "Osmeasium Ore",
+  "block.ubrcore.deepslate_lecite_ore": "Deepslate Lecite Ore",
+  "block.ubrcore.lecite_ore": "Lecite Ore",
+  "block.ubrcore.deepslate_drierium_ore": "Deepslate Drierium Ore",
+  "block.ubrcore.adamantium_ore": "Adamantium Ore",
+  "block.ubrcore.drierium_ore": "Drierium Ore",
+
+  "item.ubrcore.lecite_ingot": "Lecite Ingot",
+  "item.ubrcore.corsium_ingot": "Corsium Ingot",
+  "item.ubrcore.ecrum_ingot": "Ecrum Ingot",
+  "item.ubrcore.broynium_ingot": "Broynium Ingot",
+  "item.ubrcore.obralt_ingot": "Obralt Ingot",
+  "item.ubrcore.adamantium_ingot": "Adamantium Ingot",
+  "item.ubrcore.electrum_ingot": "Electrum Ingot",
+  "item.ubrcore.orichalcum_ingot": "Orichalcum Ingot",
+  "item.ubrcore.mithril_ingot": "Mithril Ingot",
+  "item.ubrcore.yekillian": "Yekillian",
+  "item.ubrcore.yekillian_powder": "Yekillian Powder",
+  "item.ubrcore.sperieite_shard": "Sperieite Shard",
+  "item.ubrcore.alarltite_shard": "Alarltite Shard",
+  "item.ubrcore.herdramite_shard": "Herdramite Shard",
+  "item.ubrcore.freigarite_shard": "Freigarite Shard",
+
+  "block.ubrcore.yekrillian_lamp": "Yekrillian Lamp",
+
+  "block.ubrcore.sperieite_plant": "Sperieite Plant",
+
+  "item.ubrcore.chagar": "Chagar"
+}
