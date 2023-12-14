@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ubrcore:item/yekrillian_orb"
+    "layer0": "ubrcore:item/yekrillian_dust"
   }
 }

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "ubrcore:block/yekrillian_lamp_on"
-  }
-}

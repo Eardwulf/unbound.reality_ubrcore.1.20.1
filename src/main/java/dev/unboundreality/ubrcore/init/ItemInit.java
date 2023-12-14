@@ -2,7 +2,6 @@ package dev.unboundreality.ubrcore.init;
 
 import dev.unboundreality.ubrcore.UbrCore;
 import net.minecraft.world.food.FoodProperties;
-import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Rarity;
 import net.minecraftforge.registries.DeferredRegister;
@@ -52,11 +51,17 @@ public class ItemInit {
             () -> new Item(new Item.Properties())));
     public static final RegistryObject<Item> MITHRIL_INGOT = CreativeTabInit.addToTab(ITEMS.register("mithril_ingot",
             () -> new Item(new Item.Properties())));
+    public static final RegistryObject<Item> KRAORIUM_INGOT = CreativeTabInit.addToTab(ITEMS.register("kraorium_ingot",
+            () -> new Item(new Item.Properties())));
+    public static final RegistryObject<Item> DRIERIUM_INGOT = CreativeTabInit.addToTab(ITEMS.register("drierium_ingot",
+            () -> new Item(new Item.Properties())));
+    public static final RegistryObject<Item> OSMEASIUM_INGOT = CreativeTabInit.addToTab(ITEMS.register("osmeasium_ingot",
+            () -> new Item(new Item.Properties())));
 
     //Crystal Byproducts
     public static final RegistryObject<Item> YEKRILLIAN = CreativeTabInit.addToTab(ITEMS.register("yekrillian",
             () -> new Item(new Item.Properties())));
-    public static final RegistryObject<Item> YEKRILLIAN_POWDER = CreativeTabInit.addToTab(ITEMS.register("yekrillian_powder",
+    public static final RegistryObject<Item> YEKRILLIAN_DUST = CreativeTabInit.addToTab(ITEMS.register("yekrillian_dust",
             () -> new Item(new Item.Properties())));
     public static final RegistryObject<Item> SPERIEITE_SHARD = CreativeTabInit.addToTab(ITEMS.register("sperieite_shard",
             () -> new Item(new Item.Properties())));

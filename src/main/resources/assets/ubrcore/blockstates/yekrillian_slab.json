@@ -4,7 +4,7 @@
       "model": "ubrcore:block/yekrillian_slab"
     },
     "type=double": {
-      "model": "ubrcore:block/yekrillian_block"
+      "model": "ubrcore:block/yekrillian_planks"
     },
     "type=top": {
       "model": "ubrcore:block/yekrillian_slab_top"
